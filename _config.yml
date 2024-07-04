@@ -1,4 +1,5 @@
 # Site settings
+theme: Modernist
 title: Modern Blog
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
