@@ -3,15 +3,9 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-theme: jekyl1-theme-cayman
-
-title: Welcome to the Octocat's homepagel
-
-description: Feel free to bookmark this to keep an eye on my project updates
-
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Self-Cooperation Knowledge Distillation for Novel Class Discovery
 
 on:
   # Runs on pushes targeting the default branch
