@@ -1,5 +1,6 @@
 # Site settings
-theme: Modernist
+# theme: Modernist
+theme: pages-themes/modernist@v0.2.0
 title: Self-Cooperation Knowledge Distillation for Novel Class Discovery
 description: ECCV 2024
 # remote_theme: pages-themes/modernist@v0.2.0
