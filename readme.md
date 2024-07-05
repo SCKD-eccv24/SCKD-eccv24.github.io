@@ -6,9 +6,9 @@ feature representation spaces from itself. Extensive experiments on six datasets
 
 ### Conclusion
 
-This paper considers a practical but long-neglected challenge in the Novel Class Discovery (NCD) task, i.e., the imbalanced number of samples from known and novel classes. The model despises the learning of novel classes when the known class dominates while the model forgets the prior knowledge of the known class when the novel class dominates. Compared to transferring knowledge by a shared representation space, we collect the model’s feature representations of known and novel classes as two disjoint representation spaces. Then we propose a SelfCooperation Knowledge Distillation (SCKD) method to utilize every sample for review and discovery. Our method is conceptually simple and intuitive and achieves top-level competitive results in numerous experiments on six datasets.
+This paper considers a practical but long-neglected challenge in the Novel Class Discovery (NCD) task, i.e., the imbalanced number of samples from known and novel classes. The model despises the learning of novel classes when the known class dominates while the model forgets the prior knowledge of the known class when the novel class dominates. Compared to transferring knowledge by a shared representation space, we collect the model’s feature representations of known and novel classes as two disjoint representation spaces. Then we propose a Self-Cooperation Knowledge Distillation (SCKD) method to utilize every sample for review and discovery. Our method is conceptually simple and intuitive and achieves top-level competitive results in numerous experiments on six datasets.
 
 ### Acknowledgements
 
-This work is supported by the Engineering Research Center of AI & Robotics, Ministry of Education, China.
+This work is supported by the Engineering Research Center of AI & Robotics, Ministry of Education, China.
 
